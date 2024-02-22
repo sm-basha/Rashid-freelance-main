@@ -925,7 +925,14 @@ footer span {
 
 /* MEDIA QUERY */
 @media(max-width:780px) and (min-width:202px) {
-
+  
+  .carousel-caption h1 {
+    width: inherit;
+    padding: 0;
+  }
+  .d-none {
+    display: flex !important;
+}
   #carousel,
   .carousel-item .w-100 {
     height: 50vh;
