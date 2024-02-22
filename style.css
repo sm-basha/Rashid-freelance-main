@@ -963,10 +963,14 @@ footer span {
 
   #work img {
     height: 250px;
+    width: -webkit-fill-available;
   }
 
   #testimonies {
     padding-bottom: 10rem;
+  }
+  .trend .row{
+    padding: 0 1rem;
   }
 
   .contact-wrap,
