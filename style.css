@@ -186,7 +186,7 @@ h4:hover {
 }
 
 .vbox-container img {
-  height: 50vh !important ;
+  height: 45vh !important ;
   width: auto;
 }
 .vbox-next, .vbox-prev{display: block !important;}
@@ -198,7 +198,6 @@ h4:hover {
   height: 100px !important;
   line-height: 85px !important;
   font-size: 25px !important;
-  font-style: italic;
   background-color: rgb(88 88 96) !important;
   color: #fff !important;
 }
